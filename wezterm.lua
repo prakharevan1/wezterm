@@ -174,7 +174,7 @@ config.foreground_text_hsb = {
 }
 config.background = {
     {
-        source = { File = {path = 'C:\\Users\\prakh\\Downloads\\images\\wallpapers\\purple.png', speed = 0.2}},
+        source = { File = {path = 'C:\\Users\\dagur\\Downloads\\images\\wallpapers\\purple.png', speed = 0.2}},
  opacity = 1,
  width = "100%",
  hsb = {brightness = 0.5},
